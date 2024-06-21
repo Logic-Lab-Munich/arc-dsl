@@ -3,11 +3,11 @@ import json
 import inspect
 import tqdm
 
-import arc_types
-import constants
-import dsl
-import tests
-import solvers
+from . import arc_types
+from . import constants
+from . import dsl
+from . import tests
+from . import solvers
 
 
 
